@@ -23,7 +23,7 @@ This application integrates several Python libraries to offer a robust analytica
 - Data Insights: Effortlessly summarize and analyze datasets.
 - User-Friendly Interface: Clean and intuitive interface powered by Streamlit.
 
-### You Can Access Here: [Analyse Data](https://data-analyses.streamlit.app/)
+### You can access here: [Analyse Data](https://data-analyses.streamlit.app/)
 
 <div class="contact-info">
   <h3 class="section-title">
